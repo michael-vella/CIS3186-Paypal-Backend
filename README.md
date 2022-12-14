@@ -109,7 +109,7 @@ Now, create a folder inside your repository named views. Inside the folder, we w
         <form name="f1" action="/paypal">
             <button type="submit">Pay</button>
         </form>
-    </body
+    </body>
 </html>
 ```
 
